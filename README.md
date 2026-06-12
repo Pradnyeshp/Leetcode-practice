@@ -1,6 +1,8 @@
 # Leetcode-practice
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pradnyeshp&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
