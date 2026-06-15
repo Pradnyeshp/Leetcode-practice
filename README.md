@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
