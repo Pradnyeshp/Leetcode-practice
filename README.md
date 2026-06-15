@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
