@@ -1,0 +1,48 @@
+// I’m given a string s that contains only '(', ')', '{', '}', '[', and ']'.I
+// need to return true if the brackets are balanced — that means:Every opening
+// bracket has a matching closing bracket of the same type Brackets must close
+// in the correct order Questions :- Can I assume: The string contains only
+// bracket characters? The input can be empty — and if it is, should I return
+// true?
+
+//........Stack ......
+// here i can think of is using a stack to track open brackets so basically I
+// scan the string left to right and if i see opening bracket , i will push the
+// code onto stack and if i see closing bracket i check if the stack is empty ->
+// return false and if the top of stack is matchin opening bracket -> pop it a
+// nd if it is mismatch -> return fasle At the end, the stack should be empty
+// for the string to be valid.
+// Time Complexity: O(n) We loop through all n characters in the string exactly
+// once. and push and pop opeartion on stack is O(1). so total O(n)and n is
+// length of input string.
+
+// Space Complexity: O(n) the stack stores all opening brackets
+
+class Solution {
+public:
+    bool isValid(string str) {
+        stack<char> st; 
+
+        // 1. The loop starts here
+        for (int i = 0; i < str.size(); i++) { 
+            char c = str[i];
+            
+            // 2. All logic must stay INSIDE these braces
+            if (c == '(' || c == '[' || c == '{') {
+                st.push(c);
+            } else {
+                if (st.empty()) return false;
+
+                if ((c == ')' && st.top() == '(') ||
+                    (c == '}' && st.top() == '{') ||
+                    (c == ']' && st.top() == '[')) {
+                    st.pop();
+                } else {
+                    return false;
+                }
+            }
+        }
+
+        return st.empty();
+    }
+};
