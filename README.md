@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3614-process-string-with-special-operations-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
