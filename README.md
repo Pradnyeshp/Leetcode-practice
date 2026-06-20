@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 ## Counting
