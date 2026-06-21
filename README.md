@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0242-valid-anagram) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
