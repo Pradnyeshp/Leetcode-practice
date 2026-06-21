@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
