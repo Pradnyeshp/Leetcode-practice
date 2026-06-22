@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Linked List
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1768-merge-strings-alternately) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Trie
 |  |
 | ------- |
