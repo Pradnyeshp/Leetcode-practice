@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
