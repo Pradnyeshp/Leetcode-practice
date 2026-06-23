@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3838-weighted-word-mapping](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |
