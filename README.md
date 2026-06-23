@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
 | ------- |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
