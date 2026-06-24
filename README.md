@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
 ## Binary Indexed Tree
