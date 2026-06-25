@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
