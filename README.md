@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0101-symmetric-tree) |
+| [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
