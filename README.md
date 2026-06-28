@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Database
 |  |
 | ------- |
