@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0204-count-primes) |
@@ -598,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
