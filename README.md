@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1768-merge-strings-alternately) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
