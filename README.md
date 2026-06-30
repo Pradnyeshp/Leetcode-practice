@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0507-perfect-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
