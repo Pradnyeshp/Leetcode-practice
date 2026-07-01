@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0485-max-consecutive-ones](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0221-maximal-square) |
+| [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
+| [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
