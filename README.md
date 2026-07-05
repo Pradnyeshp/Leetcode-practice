@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1795-rearrange-products-table) |
 ## Prefix Sum
 |  |
 | ------- |
