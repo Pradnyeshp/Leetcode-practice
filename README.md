@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
