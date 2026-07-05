@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Monotonic Stack
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
