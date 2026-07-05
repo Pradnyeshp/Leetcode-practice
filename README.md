@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0367-valid-perfect-square) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
