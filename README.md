@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0169-majority-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0148-sort-list) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
