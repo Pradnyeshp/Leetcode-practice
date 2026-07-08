@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0055-jump-game) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
