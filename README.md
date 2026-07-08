@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
 ## Quickselect
 |  |
