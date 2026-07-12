@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1768-merge-strings-alternately) |
+| [1844-replace-all-digits-with-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
