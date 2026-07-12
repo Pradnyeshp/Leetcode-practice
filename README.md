@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Function
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Geometry
 |  |
