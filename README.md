@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -818,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
