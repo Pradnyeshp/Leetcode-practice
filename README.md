@@ -769,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0584-find-customer-referee) |
+| [0596-classes-with-at-least-5-students](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [1251-average-selling-price](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1661-average-time-of-process-per-machine) |
