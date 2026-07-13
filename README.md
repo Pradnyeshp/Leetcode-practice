@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0101-symmetric-tree) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0090-subsets-ii) |
 ## Heap (Priority Queue)
 |  |
