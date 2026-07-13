@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1202-smallest-string-with-swaps) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
