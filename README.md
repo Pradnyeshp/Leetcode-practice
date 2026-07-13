@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
