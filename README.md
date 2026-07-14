@@ -789,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0196-delete-duplicate-emails](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0596-classes-with-at-least-5-students) |
 | [1251-average-selling-price](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1251-average-selling-price) |
