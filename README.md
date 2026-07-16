@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Monotonic Stack
@@ -648,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
