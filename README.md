@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
+| [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [1854-maximum-population-year](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1854-maximum-population-year) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
