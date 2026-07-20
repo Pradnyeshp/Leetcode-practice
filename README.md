@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1854-maximum-population-year) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
