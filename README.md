@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
