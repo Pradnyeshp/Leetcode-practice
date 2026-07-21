@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
+| [0477-total-hamming-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
+| [0477-total-hamming-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0670-maximum-swap) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0477-total-hamming-distance) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
