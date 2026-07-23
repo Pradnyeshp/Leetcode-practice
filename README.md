@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0385-mini-parser) |
 | [0496-next-greater-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0341-flatten-nested-list-iterator](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0385-mini-parser) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0565-array-nesting](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0565-array-nesting) |
