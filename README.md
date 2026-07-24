@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0086-partition-list) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
@@ -979,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
