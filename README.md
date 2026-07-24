@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2235-add-two-integers) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1146-snapshot-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1146-snapshot-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1006,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1046-last-stone-weight) |
+| [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
 | [3620-network-recovery-pathways](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
