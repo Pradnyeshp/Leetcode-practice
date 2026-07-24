@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0680-valid-palindrome-ii) |
