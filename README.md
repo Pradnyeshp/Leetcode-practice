@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2235-add-two-integers) |
+| [2739-total-distance-traveled](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2739-total-distance-traveled) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [2739-total-distance-traveled](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2739-total-distance-traveled) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3614-process-string-with-special-operations-ii) |
