@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0120-triangle) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0127-word-ladder) |
