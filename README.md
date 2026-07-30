@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
+| [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
 ## Depth-First Search
 |  |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
+| [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
 | [3620-network-recovery-pathways](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
