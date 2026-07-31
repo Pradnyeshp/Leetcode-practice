@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 ## Memoization
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0565-array-nesting](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -1176,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [1023-camelcase-matching](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1023-camelcase-matching) |
 ## Brainteaser
 |  |
