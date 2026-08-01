@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
+| [0498-diagonal-traverse](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
