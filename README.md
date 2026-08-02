@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0851-loud-and-rich) |
 | [0875-koko-eating-bananas](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0909-snakes-and-ladders) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0670-maximum-swap) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1209,4 +1212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
