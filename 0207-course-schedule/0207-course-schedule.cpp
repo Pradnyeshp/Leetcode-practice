@@ -3,7 +3,7 @@ public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         vector<int> indegree(numCourses, 0);
         vector<vector<int>> adj(numCourses);
-        queue<int> q;
+
         for (auto i : prerequisites) {
             int prereq = i[1];
             int next = i[0];
@@ -11,6 +11,8 @@ public:
             indegree[next]++;
         }
 
+        queue<int> q;
+        vector<int> order;
         for (int i = 0; i < indegree.size(); i++) {
             if (indegree[i] == 0) {
                 q.push(i);
@@ -19,6 +21,7 @@ public:
 
         while (!q.empty()) {
             int nxt = q.front();
+            order.push_back(nxt);
             q.pop();
             for (auto nei : adj[nxt]) {
                 indegree[nei]--;
@@ -28,11 +31,6 @@ public:
             }
         }
 
-        for (auto i : indegree) {
-            if (i != 0) {
-                return false;
-            }
-        }
-        return true;
+        return order.size() == numCourses;
     }
 };
