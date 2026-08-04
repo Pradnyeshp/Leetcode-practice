@@ -1,24 +1,15 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-        vector<int> res;
-        unordered_set<int> set;
-
-        int mine = INT_MAX, maxe = INT_MIN;
-
-        for (int i = 0; i < nums.size(); i++) {
-            set.insert(nums[i]);
-            mine = min(mine, nums[i]);
-            maxe = max(maxe, nums[i]);
-        }
-
-        while (mine < maxe) {
-            if (set.find(mine) == set.end()) {
-                res.push_back(mine);
+        unordered_set<int> st(nums.begin(), nums.end());
+        int mn = ranges::min(nums);
+        int mx = ranges::max(nums);
+        vector<int> ans;
+        for (int i = mn + 1; i < mx; i++) {
+            if (!st.contains(i)) {
+                ans.push_back(i);
             }
-            mine++;
         }
-
-        return res;
+        return ans;
     }
 };
