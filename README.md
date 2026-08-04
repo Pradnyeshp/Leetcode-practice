@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
 | [0643-maximum-average-subarray-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0680-valid-palindrome-ii) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -1095,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
