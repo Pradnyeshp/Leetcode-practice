@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2742-painting-the-walls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2742-painting-the-walls) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2050-parallel-courses-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2050-parallel-courses-iii) |
+| [2742-painting-the-walls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2742-painting-the-walls) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
