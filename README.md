@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
+| [0641-design-circular-deque](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Function
 |  |
