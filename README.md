@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1146-snapshot-array) |
+| [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Monotonic Stack
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1462-course-schedule-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1462-course-schedule-iv) |
+| [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
