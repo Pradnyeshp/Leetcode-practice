@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1472-design-browser-history](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1146-snapshot-array) |
+| [1472-design-browser-history](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1472-design-browser-history) |
 | [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
@@ -1147,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1472-design-browser-history) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 ## Quickselect
 |  |
