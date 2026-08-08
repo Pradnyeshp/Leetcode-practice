@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1844-replace-all-digits-with-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Monotonic Stack
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Greedy
 |  |
 | ------- |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1462-course-schedule-iv) |
 | [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
@@ -1278,4 +1282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2050-parallel-courses-iii) |
+## Binary Lifting
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
