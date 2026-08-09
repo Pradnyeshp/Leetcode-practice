@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0565-array-nesting](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0605-can-place-flowers) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0427-construct-quad-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
@@ -1079,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
+| [0542-01-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
