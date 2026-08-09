@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1765-map-of-highest-peak](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1854-maximum-population-year](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1854-maximum-population-year) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
+| [1765-map-of-highest-peak](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1462-course-schedule-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1462-course-schedule-iv) |
+| [1765-map-of-highest-peak](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
