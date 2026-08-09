@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0752-open-the-lock) |
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
+| [0821-shortest-distance-to-a-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0851-loud-and-rich) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0752-open-the-lock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0848-shifting-letters) |
 | [0981-time-based-key-value-store](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1023-camelcase-matching](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1023-camelcase-matching) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
