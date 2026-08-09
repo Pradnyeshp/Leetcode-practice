@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1023-camelcase-matching](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1146-snapshot-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1146-snapshot-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0909-snakes-and-ladders](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1765-map-of-highest-peak](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1765-map-of-highest-peak) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -1094,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1202-smallest-string-with-swaps](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1202-smallest-string-with-swaps) |
 | [1462-course-schedule-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1462-course-schedule-iv) |
 | [1765-map-of-highest-peak](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1765-map-of-highest-peak) |
