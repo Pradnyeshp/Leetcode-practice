@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2349-design-a-number-container-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 | [2349-design-a-number-container-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
 ## Queue
 |  |
@@ -923,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 | [2349-design-a-number-container-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
 ## Depth-First Search
@@ -1169,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 | [2349-design-a-number-container-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2349-design-a-number-container-system) |
+| [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3408-design-task-manager](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3408-design-task-manager) |
