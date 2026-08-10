@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
+| [2365-task-scheduler-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2365-task-scheduler-ii) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2349-design-a-number-container-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
+| [2365-task-scheduler-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2365-task-scheduler-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2365-task-scheduler-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2365-task-scheduler-ii) |
 | [2739-total-distance-traveled](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2739-total-distance-traveled) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3612-process-string-with-special-operations-i) |
