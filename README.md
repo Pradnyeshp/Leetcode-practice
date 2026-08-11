@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2742-painting-the-walls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2742-painting-the-walls) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
