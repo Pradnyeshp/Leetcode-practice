@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2365-task-scheduler-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2365-task-scheduler-ii) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2349-design-a-number-container-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2349-design-a-number-container-system) |
 | [2353-design-a-food-rating-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2353-design-a-food-rating-system) |
 | [3092-most-frequent-ids](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3092-most-frequent-ids) |
