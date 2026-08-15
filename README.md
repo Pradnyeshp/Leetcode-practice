@@ -975,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0565-array-nesting) |
 | [0572-subtree-of-another-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
@@ -1129,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0886-possible-bipartition) |
@@ -1277,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0332-reconstruct-itinerary) |
+| [0684-redundant-connection](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0841-keys-and-rooms) |
