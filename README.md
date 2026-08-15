@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0076-minimum-window-substring) |
