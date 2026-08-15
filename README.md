@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0697-degree-of-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0706-design-hashmap) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0509-fibonacci-number) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Doubly-Linked List
 |  |
@@ -910,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0477-total-hamming-distance) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1187,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -1396,4 +1401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0886-possible-bipartition) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
