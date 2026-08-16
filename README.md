@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1992-find-all-groups-of-farmland) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2050-parallel-courses-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2235-add-two-integers) |
 | [2739-total-distance-traveled](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2739-total-distance-traveled) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2938-separate-black-and-white-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2938-separate-black-and-white-balls) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1603-design-parking-system) |
 | [1854-maximum-population-year](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -1358,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -1375,15 +1380,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
