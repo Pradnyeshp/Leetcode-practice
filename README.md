@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2050-parallel-courses-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2050-parallel-courses-iii) |
 | [2742-painting-the-walls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2742-painting-the-walls) |
@@ -1362,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
