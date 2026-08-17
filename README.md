@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2742-painting-the-walls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3820-pythagorean-distance-nodes-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3820-pythagorean-distance-nodes-in-a-tree) |
 ## Monotonic Stack
 |  |
@@ -1010,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [3310-remove-methods-from-project](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3310-remove-methods-from-project) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3528-unit-conversion-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3528-unit-conversion-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3367-maximize-sum-of-weights-after-edge-removals](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3367-maximize-sum-of-weights-after-edge-removals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
