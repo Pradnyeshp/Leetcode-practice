@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1470-shuffle-the-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1600-throne-inheritance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1600-throne-inheritance) |
 | [2034-stock-price-fluctuation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2034-stock-price-fluctuation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1386-cinema-seat-allocation) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2791-count-paths-that-can-form-a-palindrome-in-a-tree) |
 | [2939-maximum-xor-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2939-maximum-xor-product) |
