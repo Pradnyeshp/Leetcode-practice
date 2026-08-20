@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
 | [0319-bulb-switcher](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0344-reverse-string) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
