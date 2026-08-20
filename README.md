@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0752-open-the-lock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0752-open-the-lock) |
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
+| [0815-bus-routes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0815-bus-routes) |
 | [0821-shortest-distance-to-a-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0827-making-a-large-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0832-flipping-an-image) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
+| [0815-bus-routes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0815-bus-routes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
@@ -1169,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0752-open-the-lock) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0815-bus-routes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0886-possible-bipartition) |
