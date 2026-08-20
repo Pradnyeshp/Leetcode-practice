@@ -1436,4 +1436,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
