@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0432-all-oone-data-structure) |
+| [0445-add-two-numbers-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0641-design-circular-deque) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0412-fizz-buzz](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0507-perfect-number) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0636-exclusive-time-of-functions) |
