@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3680-generate-schedule](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3680-generate-schedule) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
