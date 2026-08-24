@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
 | [1854-maximum-population-year](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1840-maximum-building-height](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1563-stone-game-v) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2050-parallel-courses-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2050-parallel-courses-iii) |
 | [2742-painting-the-walls](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2381-shifting-letters-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2848-points-that-intersect-with-cars) |
@@ -1401,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
@@ -1420,12 +1425,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
