@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0087-scramble-string) |
+| [0093-restore-ip-addresses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0127-word-ladder) |
@@ -1238,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
 | [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
