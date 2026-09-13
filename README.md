@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
@@ -1279,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1518,4 +1522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0332-reconstruct-itinerary) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
