@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0851-loud-and-rich) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -1314,6 +1317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0630-course-schedule-iii) |
 | [0743-network-delay-time](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
