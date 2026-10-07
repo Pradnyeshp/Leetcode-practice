@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0344-reverse-string) |
@@ -1269,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0433-minimum-genetic-mutation) |
@@ -1338,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0282-expression-add-operators](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
