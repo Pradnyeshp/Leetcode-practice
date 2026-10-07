@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0821-shortest-distance-to-a-character) |
 | [0848-shifting-letters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0848-shifting-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0981-time-based-key-value-store) |
 | [1023-camelcase-matching](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1023-camelcase-matching) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0781-rabbits-in-forest) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -1594,6 +1597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Pradnyeshp/Leetcode-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
